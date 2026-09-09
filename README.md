@@ -16,8 +16,6 @@ This project is designed as a practical automation tool rather than a one-off sc
   - Other
 - Automatically creates destination folders
 - Prevents accidental overwriting of duplicate filenames
-- Supports a safe `--dry-run` preview mode
-- Supports recursive sorting
 - Supports custom file categories through JSON
 - Optional file logging
 - Includes unit tests
@@ -151,7 +149,6 @@ From the project folder:
 python -m unittest discover -s tests
 ```
 
-## Resume Description
 
 **Automated File Sorter | Python**
 
