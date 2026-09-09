@@ -155,16 +155,6 @@ python -m unittest discover -s tests
 
 **Automated File Sorter | Python**
 
-- Developed a Python command-line automation tool that categorizes and organizes files by extension using configurable rules.
-- Implemented recursive directory processing, dry-run previews, logging, and duplicate-file protection to improve reliability and prevent data loss.
-- Wrote unit tests for file categorization, sorting behavior, and filename conflict handling using Python's standard testing library.
-
-## Future Improvements
-
-Potential additions include:
-
-- Desktop GUI
-- Scheduled background sorting
 - File-size and date-based organization
 - Undo functionality
 - Watch mode for automatic real-time sorting
